@@ -1,4 +1,4 @@
 First-Repository
 ================
 
-Test repostory
+Test repository
